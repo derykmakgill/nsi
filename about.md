@@ -12,4 +12,6 @@ Think of the posts here less as a blog or a formal program, but more as unpolish
 - What events, cultural climate, and arguments lead to Bitcoin being turned against its original purpose? Who is responsible? Why?
 - What does a world built on the new vision for Bitcoin look like? 
 
-I hope to produce a bing-worthy series of essays, interviews, and notes on the question: what happened to Bitcoin?
+I hope to produce a bing-worthy series of essays, interviews, guest posts? and notes on the question: what happened to Bitcoin?
+
+
