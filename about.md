@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-This is a project researching what when wrong in the BTC fork of Bitcoin.
+This is an ongoing public project researching what when wrong in the BTC fork of Bitcoin.
 
 Think of the posts here less as a blog or a formal program, but more as unpolished open notes and thoughts, posted daily.  I'll answer questions like:
 
