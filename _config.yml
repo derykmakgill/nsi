@@ -1,0 +1,13 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Poole
+tagline:             The Jekyll Butler
+paginate:            1
+baseurl:             ""
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
