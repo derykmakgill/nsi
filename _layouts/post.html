@@ -6,7 +6,10 @@ layout: default
   <h1 class="title">{{ page.title }}</h1>
   <p class="date">{{ page.date | date_to_string }}</time> </p>
   {{ content }}
-<p class="next-prev main-column">
+</article>
+
+
+<p class="next-prev">
   {% if page.previous.url %}
     <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
   {% endif %}
@@ -14,7 +17,3 @@ layout: default
     <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
   {% endif %}
 </p>
-</article>
-
-
-
