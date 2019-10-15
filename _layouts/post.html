@@ -7,3 +7,13 @@ layout: default
   <p class="date">{{ page.date | date_to_string }}</time> </p>
   {{ content }}
 </article>
+
+
+<p class="next-prev main-column">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+  {% endif %}
+</p>
