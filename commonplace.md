@@ -6,6 +6,8 @@ layout: default
 
 A living collection of quotes from important people who hated college.
 
+<br>
+
 > I never graduated from university. I never even started at one. I escaped from school as soon as I could when the prospect of four more years of enforced learning before I could become the writer I wanted to be seemed stifling.
 
 <cite>- Neil Gaiman</cite>
