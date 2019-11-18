@@ -4,9 +4,7 @@ layout: default
 
 # Commonplace Book
 <p class="date">
-        Last updated: November 18, 2019
-        
-      </p>
+        Last updated: November 18, 2019</p>
 
 A living collection of quotes against college, with contributors like best-selling author Neil Gaiman, American Iconoclast H.L. Mencken, investor Peter Thiel, Mark Twain, Herman Melville, Elon Musk, and more.
 
