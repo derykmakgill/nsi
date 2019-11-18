@@ -67,6 +67,10 @@ A living collection of quotes against college, with contributors like best-selli
 
 <cite>- Henry Adams</cite>
 
+> If I could meet my 14 year-old self I would tell him ‘read more books’ and ‘don’t go to college.’
+
+<cite>-Roger Ver</cite>
+
 > Some boys go to college and eventually succeed in getting out. Others go to college and never succeed in getting out. The latter are called professors.
 
 <cite>- H.L. Mencken</cite>
