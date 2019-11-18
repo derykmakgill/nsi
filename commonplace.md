@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Commonplace Book
+<h1 class="title">Commonplace</h1>
 <p class="date">
         Last updated: November 18, 2019</p>
 
