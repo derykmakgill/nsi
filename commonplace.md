@@ -2,6 +2,7 @@
 layout: default
 ---
 
+# Commonplace Book
 
 > I never graduated from university. I never even started at one. I escaped from school as soon as I could when the prospect of four more years of enforced learning before I could become the writer I wanted to be seemed stifling.
 
