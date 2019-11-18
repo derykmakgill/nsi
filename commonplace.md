@@ -67,3 +67,6 @@ A living collection of quotes against college, with contributors like best-selli
 
 <cite>- H.L. Mencken</cite>
 
+> Our culture does not make such nuanced distinctions when it comes to pushing the value of four-year schools – we push them on EVERYONE. We’ve got it into our heads that a college education is SO important, that the cost is irrelevant, along with the actual demand for whatever major a kid might wish to declare. Thus, we’ve encouraged an entire generation to borrow whatever it takes to get whatever degree they believe will make them happy. Is it any wonder tuition has risen so quickly?
+
+<cite>- Mike Rowe</cite>
