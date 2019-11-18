@@ -9,8 +9,6 @@ layout: default
 
 A living collection of quotes against college, with contributors like best-selling author Neil Gaiman, American Iconoclast H.L. Mencken, investor Peter Thiel, Mark Twain, Herman Melville, Elon Musk, and more.
 
-<hr>
-
 > I never graduated from university. I never even started at one. I escaped from school as soon as I could when the prospect of four more years of enforced learning before I could become the writer I wanted to be seemed stifling.
 
 <cite>- Neil Gaiman</cite>
