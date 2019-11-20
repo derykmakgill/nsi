@@ -8,3 +8,4 @@ layout: default
 
 (2008-10-31) [Announces Bitcoin to the Cryptography Mailing List](/) and releases the whitepaper Bitcoin: A Peer to Peer Electronic Cash System
 
+(2008-11-03) [Answers erroroneous concerns about scalability, explains SPV, how Bitcoin can compete with Visa](/)
